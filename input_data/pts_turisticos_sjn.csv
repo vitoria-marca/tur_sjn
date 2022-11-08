@@ -1,0 +1,80 @@
+latitude,longitude,database,tipo,local,endereco,bairro,contato
+401621,6457697,onde_comer,restaurante,Restaurante Brisamar,"Rua Marechal Floriano, 297",Centro,5332381420
+401444,6457575,onde_comer,restaurante,Restaurante O Caculao,"Rua Pinto Nogueira, 102",Centro,5332381159
+401791,6457414,onde_comer,restaurante,Restaurante O Farol,"Rua Aragao Bozano, 268",Centro,53999103236 53999717223
+401935,6458329,onde_comer,restaurante,Restaurante e Padaria Santos,"Rua Edgardo Pereira Velho, 648",Veneza,5332381754
+401761,6458035,onde_comer,restaurante,Restaurante Roberta,"Rua Edgardo Pereira Velho, 402",Veneza,5332381235
+401780,6458123,onde_comer,restaurante,Restaurante Opcao,"Rua Evilasio Setembrino Gauterio, 281",Almirante Tamandare,05332381541 53999354664
+406083,6453050,onde_comer,restaurante,Restaurante Atalaia,"Rua 03, 103",Praia do Mar Grosso,05332388845 53999778843
+406120,6453076,onde_comer,restaurante,Restaurante Caramujo,"Rua 03, 99",Praia do Mar Grosso,53999770924
+411853,6474741,onde_comer,restaurante,Restaurante Beira da Lagoa,"Vila do Barranco, 192",Praia do Barranco,53999521478
+460269,6500248,onde_comer,padaria,Padaria Francis,"Rua Salcedo, 96",Bojuru,53999787258
+412734,6474276,onde_comer,lancheria,Lancheria Rekanto da Lagoa,BR 101,Praia do Barranco,53999322462
+401376,6457580,onde_comer,lancheria,Boteco do Baby,"Rua Pinto Nogueira, 21",Centro,53999769301
+401734,6457130,onde_comer,lancheria,Pizzaria Recanto,"Rua Aragao Bozano, 127",Brasilia,53999451247
+401807,6457344,onde_comer,padaria,K M Doces e Salgados,"Rua Aragao Bozano, 200",Centro,53997078243 53999741049
+401712,6457501,onde_comer,lancheria,Burger de Quintal,"Rua 15 de Novembro, 741",Centro,53997061330
+401517,6457648,onde_comer,lancheria,Bauruteria Artesanal,"Rua Marechal Floriano, 487",Centro,53999981204
+401644,6457920,onde_comer,padaria,Padaria e Confeitaria Marcia,"Rua Aragao Bozano, 795",Centro,5332382766
+402353,6457881,onde_comer,padaria,Padaria Nortense - Matriz,"Rua General Osorio, 172",Joao Landel,5332381526
+401745,6457999,onde_comer,padaria,Padaria Nortense - Afilial,"Rua Edgardo Pereira Velho,346",Veneza,5332381526
+401470,6457772,onde_comer,padaria,Padaria Cantinho Doce,"Rua Carlos Bulamarque, 65",Centro,53999926377
+401388,6457482,onde_comer,lancheria,Bar e Pastelaria Fica a Dica,"Rua General Osorio, 24",Centro,53999347755
+401452,6457384,onde_comer,lancheria,Calota's Bar,"Rua Marechal Deodoro, 273",Centro,5332362316
+401720,6457688,onde_comer,padaria,Padaria Ponto dos Paes,"Rua Aragao Bozano, 423",Centro,5332382425
+460323,6500155,onde_comer,lancheria,Lancheria e Restaurante Santos,"Rua Salcedo, 128",Bojuru,53999568959
+440510,6484166,onde_comer,lancheria,Lancheria Tia Verinha,BR 101 - divisa,Divisa,53999911305
+400155,6471977,onde_comer,restaurante,Restaurante das Capivaras,,Capivaras,
+401446,6457567,hospedagem,hotel,Hotel O Caculao,"Rua Pinto Nogueira, 102",Centro,5332381159
+401832,6457856,hospedagem,pousada,Pousada Nossa Senhora da Paz,"Rua Carlos Burlamarque, 443",Centro,32381143
+401327,6452481,hospedagem,pousada,Pousada Pontal da Lagoa,"Estrada do Farol da Barra, 03 ",Pontal,pousadapaz@yahoo.com.br
+401744,6457594,hospedagem,pousada,Pousada Bozano,"Rua Aragao Bozzano, 454",Centro,53999475241
+401376,6453195,hospedagem,pousada,Pousada do Gordo,"Rod. Gov. Mario Covas, S/N",Parque Presidente Vargas,999929828
+398129,6445771,hospedagem,pousada,Pousada Carinha,"Rua 02, 175",Barra,999929828
+405939,6452920,hospedagem,pousada,Mar Grosso Pousada,"Rua 03, 120",Praia Mar Grosso,999530927
+405783,6453271,hospedagem,pousada,Mar Grosso Cabanas,"Estrada do Petrare, S/N",Praia Mar Grosso,999714185
+412737,6474260,hospedagem,camping,Rekanto da Lagoa,BR 101,Praia do Barranco,999322462
+412224,6474409,hospedagem,camping,IASD Acampamento Barroco,proximo a BR 101,Praia do Barranco,
+406137,6453082,hospedagem,pousada,Pousada Vieira,Praia do Mar Grosso,Praia Mar Grosso,53999773167
+405868,6452715,hospedagem,pousada,Pousada Ganesh,Praia do Mar Grosso,Praia Mar Grosso,53999650357
+400338,6472041,hospedagem,pousada,Pousada Castelo,Capivaras,,53999947577
+411779,6474717,hospedagem,pousada,Pousada Cabanas Beira da Lagoa,"BR 101, km 22",Praia do Barranco,
+418514,6472568,hospedagem,camping,Camping Shalon,"BR 101, 22km do centro ",São Caetano,5332381098
+460283,6500254,hospedagem,pousada,Pousada Lucas,"Rua Alvaro Costa, 251",Bojuru,5332560037
+460312,6500251,hospedagem,pousada,Pousada Freitas,"Rua Alvaro Costa, 259",Bojuru,53999470210
+401449,6457467,pontos_turisticos,ponto turistico,Centro Historico,Centro de SJN,Centro,
+401481,6457453,pontos_turisticos,ponto turistico,Praça Intendente Francisco Jose Pereira,Rua Julio de Castilhos,Centro,
+398246,6445991,pontos_turisticos,ponto turistico,Igreja Nossa Senhora da Boa Viagem,Povoacao da Barra,Barra,
+398420,6445984,pontos_turisticos,ponto turistico,Torre Atalaia,Povoacao da Barra,Barra,
+398415,6445984,pontos_turisticos,ponto turistico,Farol da Barra,Povoacao da Barra,Barra,
+398375,6442910,pontos_turisticos,ponto turistico,Molhes da Barra,Povoacao da Barra,Barra,
+401360,6457540,pontos_turisticos,ponto turistico,Prainha,Rua General Andrea,Centro,
+406173,6453014,pontos_turisticos,ponto turistico,Praia do Mar Grosso,Praia do Mar Grosso,Praia do Mar Grosso,
+411866,6474788,pontos_turisticos,ponto turistico,Praia do Barranco,Praia do Barranco,Praia do Barranco,
+431516,6475405,pontos_turisticos,ponto turistico,Barrinha do Estreito,Estreito,Estreito,
+400292,6472117,pontos_turisticos,ponto turistico,Capivaras,Capivaras,Interior,
+400033,6472239,pontos_turisticos,ponto turistico,Gruta Nossa Senhora de Fatima,Capivaras,Interior,
+401056,6470942,pontos_turisticos,ponto turistico,Gruta Nosso Senhor do Bom Jesus,Passinho,Interior,
+401516,6457616,pontos_turisticos,rota encantos,Sobrado Domingos Lopes Terra,"Rua Silva Jardim, 84",Centro,
+401492,6457585,pontos_turisticos,rota encantos,Casas Germinadas da Familia Petroni,Rua Pinto Nogueira 125 a 151,Centro,
+401520,6457574,pontos_turisticos,rota encantos,Casa Fedoca Cunha,"Rua Silva Jardim, 38",Centro,
+401437,6457526,pontos_turisticos,rota encantos,Ministerio Público Hotel Amaral,,Centro,
+401419,6457520,pontos_turisticos,rota encantos,Casa Primo,"Rua General Osorio, 55",Centro,
+401424,6457508,pontos_turisticos,rota encantos,Casa Irmaos Costa,"Rua General Osorio, 54",Centro,
+401449,6457514,pontos_turisticos,rota encantos,Casa Aparicio Costa,"Rua General Osorio, 119",Centro,
+401435,6457441,pontos_turisticos,rota encantos,Solar dos Imperadores,"Rua Bento Goncalves, 53",Centro,
+401408,6457423,pontos_turisticos,rota encantos,Antiga Alfandega Frigoria,"Rua Bento Goncalves, 20",Centro,
+401451,6457414,pontos_turisticos,rota encantos,Sobrado Chaffic,"Rua Marechal Deodoro, 295",Centro,
+401449,6457374,pontos_turisticos,rota encantos,Antiga Intendencia e Prefeitura Municipal de SJN,,Centro,
+401483,6457444,pontos_turisticos,rota encantos,Busto de Garibaldi,Praca Matriz,Centro,
+401516,6457445,pontos_turisticos,rota encantos,Igreja Matriz São Jose,Rua Julio de Castilho s/n,Centro,
+401492,6457526,pontos_turisticos,rota encantos,Sobrado Gibbon,"Rua General Osorio, 134",Centro,
+401512,6457533,pontos_turisticos,rota encantos,Antigo Acogue Marcelino Alves,"Rua General Osorio, 142",Centro,
+401524,6457539,pontos_turisticos,rota encantos,Sobrado Familia Ferrari,"Rua General Osorio, 158",Centro,
+401540,6457543,pontos_turisticos,rota encantos,Antigo Bar e Cafe Atlantico,"Rua General Osorio, 162",Centro,
+401554,6457548,pontos_turisticos,rota encantos,Casa dos Antigos Correios,"Rua General Osorio, 208",Centro,
+401568,6457554,pontos_turisticos,rota encantos,Antiga Sede Jornal Echo do Norte,"Rua General Osorio, 212",Centro,
+401585,6457561,pontos_turisticos,rota encantos,Sobrado Telegrafo,Rua General,Centro,
+401591,6457563,pontos_turisticos,rota encantos,Casa Julio Pimenta da Costa,"Rua General Osorio, 266",Centro,
+401647,6457687,pontos_turisticos,rota encantos,Casa Andre,"Rua Marechal Floriano, 266",Centro,
+401582,6457680,pontos_turisticos,rota encantos,Busto Almirante Tamandare,Rua Marechal Floriano,Centro,
